@@ -46,7 +46,10 @@ export default defineConfig({
       }
 
       body {
-        background: var(--vp-c-bg);
+        background:
+          radial-gradient(circle at 1px 1px, rgba(148, 163, 184, 0.16) 1px, transparent 0),
+          var(--vp-c-bg);
+        background-size: 28px 28px;
       }
 
       a {
@@ -255,6 +258,11 @@ export default defineConfig({
         margin: 28px 0;
       }
 
+      .project-grid {
+        gap: 24px;
+        margin: 36px 0 54px;
+      }
+
       .signal-grid {
         grid-template-columns: repeat(4, minmax(0, 1fr));
       }
@@ -315,43 +323,89 @@ export default defineConfig({
       }
 
       .page-brief {
-        margin: 24px 0 34px;
+        margin: 28px 0 42px;
       }
 
       .project-card {
         min-width: 0;
         overflow: hidden;
-        padding: 22px;
+        border-color: rgba(148, 163, 184, 0.18);
+        border-radius: 12px;
+        background: rgba(13, 17, 23, 0.68);
+        padding: 28px;
         transition: border-color 160ms ease, background 160ms ease;
       }
 
       .project-card:hover {
-        border-color: rgba(56, 189, 248, 0.5);
-        background: #111827;
+        border-color: rgba(56, 189, 248, 0.34);
+        background: rgba(17, 24, 39, 0.74);
       }
 
       .project-card h3 {
-        margin: 10px 0 10px;
+        margin: 12px 0 8px;
         color: var(--vp-c-text-1);
-        font-size: 20px;
+        font-size: 19px;
         line-height: 1.25;
       }
 
       .project-card p {
-        margin: 10px 0;
+        margin: 8px 0 0;
         color: var(--vp-c-text-2);
-      }
-
-      .project-meta {
-        color: #38BDF8;
-        font-size: 12px;
+        font-size: 14px;
         line-height: 1.55;
       }
 
-      .project-contribution {
-        border-top: 1px solid var(--vp-c-divider);
-        padding-top: 14px;
-        font-size: 14px;
+      .project-meta {
+        color: rgba(125, 211, 252, 0.82);
+        font-size: 11px;
+        line-height: 1.5;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+      }
+
+      .project-card .tag-row {
+        gap: 8px;
+        margin: 18px 0 0;
+      }
+
+      .project-card .tag-row span {
+        min-height: 24px;
+        border-color: rgba(148, 163, 184, 0.18);
+        background: rgba(148, 163, 184, 0.06);
+        color: var(--vp-c-text-2);
+        font-size: 11px;
+        padding: 4px 8px;
+      }
+
+      .project-card .project-links {
+        align-items: center;
+        flex-wrap: nowrap;
+        gap: 14px;
+        margin-top: 22px;
+      }
+
+      .project-card .project-links a {
+        min-height: auto;
+        border: 0;
+        border-radius: 0;
+        background: transparent;
+        color: rgba(125, 211, 252, 0.88);
+        font-size: 13px;
+        font-weight: 650;
+        padding: 0;
+      }
+
+      .project-card .project-links a:first-child {
+        border: 0;
+        background: transparent;
+        color: rgba(125, 211, 252, 0.88);
+      }
+
+      .project-card .project-links a:hover,
+      .project-card .project-links a:first-child:hover {
+        background: transparent;
+        color: #E0F2FE;
+        text-decoration: underline;
       }
 
       .timeline {
@@ -476,6 +530,10 @@ export default defineConfig({
         .research-note,
         .signal-panel {
           padding: 18px;
+        }
+
+        .project-card .project-links {
+          flex-wrap: wrap;
         }
 
         .timeline-date {
