@@ -2,111 +2,189 @@
 
 ## Profile
 
-I am **Majdi Ahmadi**, a computer science and engineering student developing a practical foundation across software engineering, computer systems, cybersecurity, and user experience design.
+**Majdi Ahmadi Bin Mohd Zohdi** is a second-year **Bachelor of Computer Science (Honours) - Security in Digital Systems** student at **International Islamic University Malaysia (IIUM), Gombak**.
 
-My work combines academic study with hands-on projects: building web applications, exploring low-level execution, studying malware behavior, and designing interfaces that are easier to understand and use.
+Based in **Nilai, Negeri Sembilan, Malaysia**, I am building a cybersecurity-focused foundation across network security, malware analysis, intrusion detection, IoT security, Linux, log analysis, and security monitoring.
 
-::: tip Professional Focus
-I am especially interested in roles and projects that connect **systems knowledge**, **secure software thinking**, and **usable product design**.
+::: tip Professional Direction
+I am interested in cybersecurity roles and projects involving SOC operations, malware analysis, network defense, IoT security, threat analysis, and secure systems.
 :::
+
+## Experience Timeline
+
+### Assistant Invigilator
+
+<Badge type="info" text="USIM" />
+<Badge type="tip" text="Operations" />
+<Badge type="tip" text="Responsibility" />
+
+**Universiti Sains Islam Malaysia (USIM)**  
+**2024, 2025**
+
+Supported examination operations as an assistant invigilator, helping maintain proper exam procedures, student coordination, and a controlled assessment environment.
+
+### Retail Salesworker
+
+<Badge type="info" text="Tone & Mann" />
+<Badge type="tip" text="Customer Service" />
+<Badge type="tip" text="Retail" />
+
+**Tone & Mann, AEON**  
+**2023**
+
+Handled retail sales responsibilities, customer service, product assistance, and day-to-day store operations.
 
 ## Education
 
-### Computer Science / Engineering Student
+### Bachelor of Computer Science (Honours) - Security in Digital Systems
 
-Focused study areas include:
+<Badge type="warning" text="Cybersecurity" />
+<Badge type="info" text="Computer Science" />
+<Badge type="tip" text="CGPA 3.57" />
 
-- Computer architecture and processor organization.
-- Assembly language and low-level programming concepts.
-- Malware analysis and cybersecurity fundamentals.
-- General programming and software development.
-- UX design, user flows, and interface usability.
+**International Islamic University Malaysia (IIUM), Gombak**  
+**Second-year student**
+
+- CGPA: **3.57**
+- Dean's List Award: **Semester 1 and Semester 3**
+- Focus areas: secure digital systems, network security, programming, cybersecurity tools, and system analysis
+
+### Foundation in Engineering & Computer Science
+
+<Badge type="info" text="Engineering" />
+<Badge type="info" text="Computer Science" />
+<Badge type="tip" text="CGPA 2.99" />
+
+**IIUM Gambang**  
+CGPA: **2.99**
+
+### Sijil Pelajaran Malaysia
+
+<Badge type="tip" text="9A" />
+<Badge type="tip" text="Principal's List" />
+
+Achieved **9A** in SPM and received the **Principal's List Award**.
+
+## Certifications
+
+### CCNA Switching, Routing, and Wireless Essentials
+
+<Badge type="tip" text="CCNA" />
+<Badge type="info" text="Switching" />
+<Badge type="info" text="Routing" />
+<Badge type="info" text="Wireless" />
+
+**2026**
+
+Completed Cisco networking coursework covering switching, routing, and wireless networking essentials.
+
+### CCNA Introduction to Networks
+
+<Badge type="tip" text="CCNA" />
+<Badge type="info" text="Networking" />
+<Badge type="warning" text="Security Foundation" />
+
+**2025**
+
+Completed foundational networking coursework covering network models, IP addressing, connectivity, and core network concepts.
 
 ## Skills
 
 ### Languages
 
+<Badge type="info" text="Python" />
+<Badge type="info" text="PHP" />
+<Badge type="info" text="Java" />
+<Badge type="info" text="JavaScript" />
+<Badge type="info" text="SQL" />
+<Badge type="info" text="PL/SQL" />
 <Badge type="info" text="C" />
 <Badge type="info" text="C++" />
-<Badge type="info" text="Assembly" />
-<Badge type="info" text="JavaScript" />
-<Badge type="info" text="PHP" />
-<Badge type="info" text="HTML" />
-<Badge type="info" text="CSS" />
-<Badge type="info" text="SQL" />
 
-**Working knowledge**
+### Cybersecurity Tools
 
-- Writing and debugging procedural programs.
-- Understanding memory, registers, and low-level execution.
-- Building server-rendered web app features with PHP.
-- Creating structured pages and interfaces with HTML, CSS, and JavaScript.
-- Querying and organizing relational data with SQL.
+<Badge type="tip" text="Wireshark" />
+<Badge type="tip" text="Suricata IDS" />
+<Badge type="tip" text="Wazuh" />
+<Badge type="tip" text="MITRE ATT&CK" />
+<Badge type="tip" text="Sysinternals" />
+<Badge type="tip" text="Proxmox" />
+<Badge type="tip" text="Docker" />
+<Badge type="tip" text="NS3" />
+<Badge type="tip" text="MATLAB" />
 
-### Tools
+### Cybersecurity Skills
 
-<Badge type="tip" text="Git" />
-<Badge type="tip" text="GitHub" />
-<Badge type="tip" text="XAMPP" />
-<Badge type="tip" text="MySQL" />
-<Badge type="tip" text="VitePress" />
-<Badge type="tip" text="VS Code" />
-<Badge type="tip" text="Linux" />
-
-**Common workflow**
-
-- Version control with Git and GitHub.
-- Local web development with XAMPP and MySQL.
-- Documentation and portfolio publishing with VitePress.
-- Debugging through logs, browser tools, and step-by-step inspection.
-- Organizing project work so it can be explained, tested, and improved.
-
-### Concepts
-
-<Badge type="warning" text="Computer Architecture" />
-<Badge type="warning" text="Assembly Language" />
+<Badge type="warning" text="Network Security" />
 <Badge type="warning" text="Malware Analysis" />
+<Badge type="warning" text="Intrusion Detection" />
+<Badge type="warning" text="IoT Security" />
+<Badge type="warning" text="Threat Analysis" />
+<Badge type="warning" text="Log Analysis" />
+<Badge type="warning" text="Linux" />
+<Badge type="warning" text="Security Monitoring" />
+<Badge type="warning" text="Vulnerability Analysis" />
 <Badge type="warning" text="Reverse Engineering" />
-<Badge type="warning" text="UX Design" />
-<Badge type="warning" text="Web Development" />
+<Badge type="warning" text="Cryptography" />
+<Badge type="warning" text="Risk Assessment" />
 
-**Technical areas**
+## Projects
 
-- Instruction execution, registers, memory, and CPU organization.
-- Static malware analysis, file indicators, strings, hashes, and metadata.
-- Secure analysis practices using isolated environments.
-- Web application structure, routing, forms, and database-backed features.
-- UX fundamentals including hierarchy, consistency, accessibility, and user flows.
+### Hunting Malware in the Wild
 
-## Experience & Practice
+**May 2026 - June 2026**  
+Analyzed real malware with static, dynamic, and network analysis; identified indicators of compromise; mapped behavior to **MITRE ATT&CK**; and proposed mitigations.
 
-### Personal Web Application Development
+### MITM Attack Detection in IoT Networks
 
-Built and iterated on **myfamilyhub**, a family hub application designed around household organization and shared access. The project helped strengthen practical skills in PHP, MySQL, local development environments, and interface planning.
+**March 2025 - June 2025**  
+Used MATLAB, NS3, physical layer security, RSS, and CSI anomaly detection concepts to study MITM attack detection in IoT networks.
 
-### Academic Systems Projects
+### Docker-Based Virtualization for OS Labs
 
-Worked on computer architecture and assembly language exercises that connect source-level instructions to processor behavior. These projects developed a stronger understanding of how software uses memory, registers, instruction formats, and control flow.
+**October 2025 - January 2026**  
+Used Docker and WSL2 to replace traditional VM-based operating systems labs with Ubuntu container environments.
 
-### Security Lab Learning
+### Blockchain in Global Aquaculture
 
-Studied malware analysis workflows with an emphasis on safe handling, repeatable inspection, and clear reporting. Areas of focus include hashing, metadata inspection, string extraction, and recognizing suspicious file characteristics.
+**January 2025**  
+Co-authored a journal paper on blockchain, IoT, and AI integration for global aquaculture and food supply chain traceability.
 
-## How I Work
+## CTF Competitions
 
-```txt
-Understand the problem.
-Break it into testable parts.
-Build a simple version first.
-Inspect behavior carefully.
-Improve the interface and implementation.
-Document what matters.
-```
+::: info Capture The Flag Practice
+CTF participation supports practical learning across web exploitation, cryptography, forensics, reverse engineering, binary analysis, and security problem solving.
+:::
 
-I value clear code, practical documentation, and software that is built for real people rather than only for a checklist.
+- ICECTF Chapter 0 & 1 at IIUM
+- 0xFUN CTF 2026
+- TaipanByte Chart CTF 2026
+- Crackmes.one CTF 2026
+- Batman's Kitchen CTF 2026
+- THJCC CTF 2026
 
-## Links
+## Leadership & Activities
 
-- GitHub: [github.com/majdiahmadi](https://github.com/majdiahmadi)
-- LinkedIn: [linkedin.com/in/majdiahmadi](https://linkedin.com/in/majdiahmadi)
-- Portfolio: [majdiahmadi.github.io](https://majdiahmadi.github.io)
+### Web Development Committee
+
+**IGIIDeation 2025**
+
+Supported web development work for the event committee.
+
+### Committee Member
+
+**Physical Router & Switch Lab 2025**
+
+Supported technical lab activities related to router and switch infrastructure.
+
+### Committee Member
+
+**IoT Appreciation Day 2025**
+
+Supported event activities focused on IoT awareness and appreciation.
+
+## Contact
+
+- Email: [majdiahmadi05@gmail.com](mailto:majdiahmadi05@gmail.com)
+- Phone: [+60 11-61665395](tel:+601161665395)
+- Location: Nilai, Negeri Sembilan, Malaysia

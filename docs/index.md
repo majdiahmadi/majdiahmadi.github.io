@@ -2,65 +2,144 @@
 layout: home
 
 hero:
-  name: "Majdi Ahmadi"
-  text: "Computer Science & Engineering Student"
-  tagline: "Building thoughtful software at the intersection of systems, security, and user experience."
+  name: "Majdi Ahmadi Bin Mohd Zohdi"
+  text: "Computer Science Student"
+  tagline: "Computer Science Student · Specializing in Security in Digital Systems · CCNA Certified"
   actions:
     - theme: brand
       text: View Projects
       link: /projects
     - theme: alt
-      text: Skills & Experience
+      text: Experience
       link: /experience
     - theme: alt
-      text: GitHub
-      link: https://github.com/majdiahmadi
+      text: Email Me
+      link: mailto:majdiahmadi05@gmail.com
 
 features:
-  - title: Systems Mindset
-    details: Studying computer architecture, assembly language, and low-level programming to understand how software behaves close to the hardware.
-  - title: Security Curiosity
-    details: Exploring malware analysis, reverse engineering workflows, and practical tooling for observing suspicious programs safely.
-  - title: User-Centered Builder
-    details: Applying UX design fundamentals to build applications that are clear, practical, and easier for people to use.
+  - title: Cybersecurity Focus
+    details: Building practical skills in malware analysis, network security, intrusion detection, IoT security, threat analysis, and security monitoring.
+  - title: Systems & Networking
+    details: Studying Security in Digital Systems while applying CCNA networking knowledge, Docker labs, NS3 simulation, Linux, and packet analysis tools.
+  - title: Research & Projects
+    details: Working on malware investigation, IoT MITM detection, Docker-based operating system labs, and blockchain-enabled aquaculture supply chains.
 ---
 
-## About
+## About Me
 
-Hi, I'm **Majdi Ahmadi**, a computer science and engineering student focused on building a strong foundation across software development, computer systems, cybersecurity, and UX design.
+I am **Majdi Ahmadi Bin Mohd Zohdi**, a second-year **Bachelor of Computer Science (Honours) - Security in Digital Systems** student at **International Islamic University Malaysia (IIUM), Gombak**.
 
-I enjoy projects that connect theory with working software: simulating processor behavior, analyzing program execution, designing useful web applications, and improving interfaces so technical tools feel more approachable.
+My work focuses on cybersecurity, computer networks, and applied systems projects. I am especially interested in malware analysis, intrusion detection, IoT security, log analysis, and security monitoring.
 
-::: tip Current Focus
-I am strengthening my skills in **computer architecture**, **assembly language**, **malware analysis**, **programming**, and **UX design** while building portfolio projects that demonstrate practical engineering judgment.
+::: tip Current Academic Standing
+CGPA: **3.57** · **Dean's List Award** for Semester 1 and Semester 3
 :::
 
-## Tech Stack
+## Contact
 
-<Badge type="info" text="C / C++" />
-<Badge type="info" text="Assembly" />
-<Badge type="info" text="JavaScript" />
+- **Location:** Nilai, Negeri Sembilan, Malaysia
+- **Email:** [majdiahmadi05@gmail.com](mailto:majdiahmadi05@gmail.com)
+- **Phone:** [+60 11-61665395](tel:+601161665395)
+
+## Technical Skills
+
+### Languages
+
+<Badge type="info" text="Python" />
 <Badge type="info" text="PHP" />
-<Badge type="info" text="HTML" />
-<Badge type="info" text="CSS" />
-<Badge type="tip" text="MySQL" />
-<Badge type="tip" text="Git" />
-<Badge type="tip" text="XAMPP" />
+<Badge type="info" text="Java" />
+<Badge type="info" text="JavaScript" />
+<Badge type="info" text="SQL" />
+<Badge type="info" text="PL/SQL" />
+<Badge type="info" text="C" />
+<Badge type="info" text="C++" />
+
+### Cybersecurity Tools
+
+<Badge type="tip" text="Wireshark" />
+<Badge type="tip" text="Suricata IDS" />
+<Badge type="tip" text="Wazuh" />
+<Badge type="tip" text="MITRE ATT&CK" />
+<Badge type="tip" text="Sysinternals" />
+<Badge type="tip" text="Proxmox" />
+<Badge type="tip" text="Docker" />
+<Badge type="tip" text="NS3" />
+<Badge type="tip" text="MATLAB" />
+
+### Security Areas
+
+<Badge type="warning" text="Network Security" />
 <Badge type="warning" text="Malware Analysis" />
-<Badge type="warning" text="Computer Architecture" />
-<Badge type="warning" text="UX Design" />
+<Badge type="warning" text="Intrusion Detection" />
+<Badge type="warning" text="IoT Security" />
+<Badge type="warning" text="Threat Analysis" />
+<Badge type="warning" text="Log Analysis" />
+<Badge type="warning" text="Linux" />
+<Badge type="warning" text="Security Monitoring" />
+<Badge type="warning" text="Vulnerability Analysis" />
+<Badge type="warning" text="Reverse Engineering" />
+<Badge type="warning" text="Cryptography" />
+<Badge type="warning" text="Risk Assessment" />
 
-## Quick Links
+## Featured Projects
 
-- [Projects](/projects) - selected academic and personal work
-- [Experience](/experience) - skills, education, and technical focus areas
-- [GitHub](https://github.com/majdiahmadi) - code and project repositories
-- [LinkedIn](https://linkedin.com/in/majdiahmadi) - professional profile
+### Hunting Malware in the Wild
 
-## Portfolio Source
+<Badge type="danger" text="Malware Analysis" />
+<Badge type="warning" text="MITRE ATT&CK" />
+<Badge type="info" text="Static Analysis" />
+<Badge type="info" text="Dynamic Analysis" />
 
-This portfolio is built with **VitePress** and published at:
+**May 2026 - June 2026**
 
-```txt
-https://majdiahmadi.github.io
-```
+Analyzed real malware samples using static, dynamic, and network analysis techniques. Identified indicators of compromise, mapped observed behavior to **MITRE ATT&CK**, and proposed practical mitigations.
+
+### MITM Attack Detection in IoT Networks
+
+<Badge type="warning" text="IoT Security" />
+<Badge type="info" text="MATLAB" />
+<Badge type="info" text="NS3" />
+<Badge type="tip" text="Physical Layer Security" />
+
+**March 2025 - June 2025**
+
+Researched man-in-the-middle attack detection in IoT networks using RSS and CSI anomaly detection concepts with MATLAB and NS3 simulation.
+
+::: info More Projects
+See the [Projects](/projects) page for Docker-based OS labs and blockchain research work.
+:::
+
+## Education Snapshot
+
+### Bachelor of Computer Science (Honours) - Security in Digital Systems
+
+**International Islamic University Malaysia (IIUM), Gombak**  
+Second-year student · CGPA: **3.57**
+
+- Dean's List Award: Semester 1 and Semester 3
+- Focus areas: cybersecurity, secure systems, networking, digital systems, and software development
+
+### Foundation in Engineering & Computer Science
+
+**IIUM Gambang**  
+CGPA: **2.99**
+
+### Sijil Pelajaran Malaysia
+
+**SPM: 9A**  
+Principal's List Award
+
+## Certifications
+
+<Badge type="tip" text="CCNA" />
+<Badge type="info" text="Networking" />
+<Badge type="warning" text="Security Foundation" />
+
+- **CCNA Switching, Routing, and Wireless Essentials** - 2026
+- **CCNA Introduction to Networks** - 2025
+
+## Activities
+
+- **CTF Competitor:** ICECTF Chapter 0 & 1, 0xFUN CTF 2026, TaipanByte Chart CTF 2026, Crackmes.one CTF 2026, Batman's Kitchen CTF 2026, THJCC CTF 2026
+- **Leadership:** Web Development Committee for IGIIDeation 2025
+- **Technical Committees:** Physical Router & Switch Lab 2025, IoT Appreciation Day 2025
