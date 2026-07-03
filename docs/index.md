@@ -13,16 +13,6 @@ layout: home
     </div>
   </div>
 
-  <aside class="terminal-card" aria-label="Cybersecurity profile terminal">
-    <div class="terminal-bar"><span class="terminal-dot"></span><span>live-profile.session</span></div>
-    <div class="terminal-body">
-      <div class="console-line"><span>profile</span></div>
-      <div class="console-line"><strong>role:</strong> Security in Digital Systems student</div>
-      <div class="console-line"><strong>base:</strong> IIUM Gombak | Nilai, Malaysia</div>
-      <div class="console-line"><strong>signal:</strong> malware analysis, network defense, cryptography, Linux labs</div>
-      <div class="console-line"><strong>status:</strong> building practical evidence through projects, reports, and labs</div>
-    </div>
-  </aside>
 </section>
 
 <section class="stats-grid compact">

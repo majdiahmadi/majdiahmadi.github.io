@@ -54,6 +54,11 @@ export default defineConfig({
 
       a {
         text-underline-offset: 4px;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: none;
       }
 
       .VPNav {
@@ -106,12 +111,12 @@ export default defineConfig({
       }
 
       .signature-hero {
-        display: grid;
-        grid-template-columns: minmax(0, 1.25fr) minmax(300px, 0.75fr);
-        gap: clamp(24px, 5vw, 58px);
-        align-items: center;
-        min-height: calc(100vh - 176px);
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        min-height: auto;
         padding: clamp(46px, 8vw, 92px) 0 clamp(32px, 6vw, 70px);
+        max-width: 830px;
       }
 
       .hero-kicker,
