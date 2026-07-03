@@ -1,157 +1,98 @@
 # Experience
 
-## Profile
-
-<section class="page-brief">
-  <div class="eyebrow">profile / education / credentials</div>
-  <p><strong>Majdi Ahmadi Bin Mohd Zohdi</strong> is a second-year <strong>Bachelor of Computer Science (Honours) - Security in Digital Systems</strong> student at <strong>International Islamic University Malaysia (IIUM), Gombak</strong>.</p>
-</section>
-
-Based in **Nilai, Negeri Sembilan, Malaysia**, I am developing a cybersecurity-focused foundation across malware analysis, network security, intrusion detection, IoT security, applied cryptography, Linux, log analysis, and security monitoring.
-
-<div class="hero-actions">
-  <a class="cyber-button primary" href="/resume.pdf">Download Resume</a>
-  <a class="cyber-button" href="mailto:majdiahmadi05@gmail.com">Contact Me</a>
-</div>
-
-<section class="focus-strip">
-  <span>SOC Fundamentals</span>
-  <span>Malware Analysis</span>
-  <span>Network Defense</span>
-  <span>IoT Security</span>
-  <span>Secure Systems</span>
-</section>
-
-<section class="stats-grid compact">
-  <div class="stat-card">
-    <span class="stat-value">3.57</span>
-    <span class="stat-label">Current CGPA in Security in Digital Systems</span>
+<section class="resume-strip">
+  <div>
+    <p class="eyebrow">Profile</p>
+    <h2>Security in Digital Systems student focused on practical security work.</h2>
   </div>
-  <div class="stat-card">
-    <span class="stat-value">2x</span>
-    <span class="stat-label">Dean's List Award for Semester 1 and Semester 3</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-value">9A</span>
-    <span class="stat-label">SPM result with Principal's List Award</span>
-  </div>
-  <div class="stat-card">
-    <span class="stat-value">Cisco</span>
-    <span class="stat-label">Networking Academy: CCNA Introduction to Networks and SRWE</span>
-  </div>
+  <a class="button primary" href="/resume.pdf">Download Resume</a>
 </section>
 
 ## Education
 
 <section class="timeline">
-  <article class="timeline-item">
-    <div class="timeline-date">Current</div>
-    <div class="timeline-content">
-      <h3>Bachelor of Computer Science (Honours) - Security in Digital Systems</h3>
-      <p><strong>International Islamic University Malaysia (IIUM), Gombak</strong></p>
-      <p>Second-year student with a current <strong>CGPA of 3.57</strong>.</p>
-      <div class="tag-row"><span>Cybersecurity</span><span>Secure Digital Systems</span><span>Network Security</span><span>Programming</span><span>System Analysis</span></div>
-      <p class="project-contribution"><strong>Academic recognition:</strong> Dean's List Award for Semester 1 and Semester 3.</p>
-    </div>
+  <article>
+    <span>2024 - Present</span>
+    <h3>International Islamic University Malaysia, Gombak</h3>
+    <p>BSc Computer Science, Security in Digital Systems. Current CGPA: 3.57. Dean's List in Semester 1 and Semester 3.</p>
   </article>
-
-  <article class="timeline-item">
-    <div class="timeline-date">Foundation</div>
-    <div class="timeline-content">
-      <h3>Foundation in Engineering & Computer Science</h3>
-      <p><strong>IIUM Gambang</strong></p>
-      <p>Completed foundation studies with a <strong>CGPA of 2.99</strong>.</p>
-      <div class="tag-row"><span>Engineering</span><span>Computer Science</span><span>Technical Foundation</span></div>
-    </div>
+  <article>
+    <span>Foundation</span>
+    <h3>IIUM Gambang</h3>
+    <p>Foundation studies with CGPA 2.99.</p>
   </article>
-
-  <article class="timeline-item">
-    <div class="timeline-date">SPM</div>
-    <div class="timeline-content">
-      <h3>Sijil Pelajaran Malaysia</h3>
-      <p>Achieved <strong>9A</strong> in SPM and received the <strong>Principal's List Award</strong>.</p>
-      <div class="tag-row"><span>9A</span><span>Principal's List</span></div>
-    </div>
+  <article>
+    <span>Secondary School</span>
+    <h3>SPM</h3>
+    <p>Completed SPM with 9A.</p>
   </article>
 </section>
 
 ## Certifications
 
-::: tip Verified Credentials
-Certification records are available on [Credly](https://www.credly.com/users/majdi-ahmadi). Current networking coursework: Cisco Networking Academy: CCNA Introduction to Networks and Switching, Routing, and Wireless Essentials.
-:::
-
-<section class="project-grid">
+<section class="project-grid two">
   <article class="project-card">
-    <div class="project-meta">Cisco Networking Academy | Issued January 17, 2026</div>
-    <h3>Cisco Networking Academy: CCNA Switching, Routing, and Wireless Essentials</h3>
-    <p>Cisco Networking Academy coursework covering switching, routing, wireless networking, VLANs, inter-VLAN routing, routing concepts, and core network operations.</p>
-    <div class="tag-row"><span>CCNA</span><span>Switching</span><span>Routing</span><span>Wireless</span><span>Networking</span></div>
-    <p class="project-contribution"><a href="https://www.credly.com/badges/ccna-switching-routing-and-wireless-essentials">View credential on Credly</a></p>
+    <p class="project-meta">Cisco Networking Academy - 2025</p>
+    <h3>CCNA: Introduction to Networks</h3>
+    <p>Networking fundamentals, IP addressing, Ethernet, routing basics, switching basics, and network troubleshooting.</p>
+    <div class="action-row"><a href="https://www.credly.com/users/majdi-ahmadi">View on Credly</a></div>
   </article>
-
   <article class="project-card">
-    <div class="project-meta">Cisco Networking Academy | Issued June 3, 2025</div>
-    <h3>Cisco Networking Academy: CCNA Introduction to Networks</h3>
-    <p>Cisco Networking Academy coursework covering network models, IP addressing, Ethernet, connectivity, network services, and essential networking concepts used in security and systems work.</p>
-    <div class="tag-row"><span>CCNA</span><span>IP Addressing</span><span>Ethernet</span><span>Network Models</span><span>Security Foundation</span></div>
-    <p class="project-contribution"><a href="https://www.credly.com/badges/ccna-introduction-to-networks">View credential on Credly</a></p>
+    <p class="project-meta">Cisco Networking Academy - 2026</p>
+    <h3>CCNA: Switching, Routing, and Wireless Essentials</h3>
+    <p>Switching concepts, VLANs, inter-VLAN routing, static routing, wireless concepts, and basic network security.</p>
+    <div class="action-row"><a href="https://www.credly.com/users/majdi-ahmadi">View on Credly</a></div>
   </article>
 </section>
 
-## Activities
+## CTF Participation
 
-<section class="project-grid">
+<section class="focus-strip">
+  <span>ICECTF Chapter 0&1</span>
+  <span>0xFUN CTF 2026</span>
+  <span>TaipanByte Chart 2026</span>
+  <span>Crackmes.one</span>
+  <span>Batman Kitchen</span>
+  <span>THJCC</span>
+</section>
+
+## Campus Activities
+
+<section class="project-grid two">
   <article class="project-card">
-    <div class="project-meta">Cybersecurity Practice</div>
-    <h3>Capture The Flag Competitions</h3>
-    <p>Participated in CTF practice to strengthen applied security problem solving across web exploitation, cryptography, forensics, reverse engineering, binary analysis, and general cybersecurity challenges.</p>
-    <div class="tag-row"><span>ICECTF Chapter 0 & 1</span><span>0xFUN CTF 2026</span><span>TaipanByte Chart CTF 2026</span><span>Crackmes.one CTF 2026</span><span>Batman's Kitchen CTF 2026</span><span>THJCC CTF 2026</span></div>
+    <p class="project-meta">IIUM</p>
+    <h3>Academic and Lab Work</h3>
+    <p>Documented coursework across malware analysis, applied cryptography, operating systems, databases, software engineering, and assembly language.</p>
   </article>
-
   <article class="project-card">
-    <div class="project-meta">Leadership & Technical Committees</div>
-    <h3>Campus Technical Activities</h3>
-    <p>Supported campus events and technical programs involving web development, router and switch lab activities, and IoT-focused awareness.</p>
-    <div class="tag-row"><span>IGIIDeation 2025</span><span>Web Development Committee</span><span>Physical Router & Switch Lab 2025</span><span>IoT Appreciation Day 2025</span></div>
-  </article>
-
-  <article class="project-card">
-    <div class="project-meta">Work Experience</div>
-    <h3>Operations & Customer-Facing Roles</h3>
-    <p>Worked as an assistant invigilator at Universiti Sains Islam Malaysia in 2024 and 2025, supporting examination operations and assessment procedures. Also worked as a retail salesworker at Tone & Mann, AEON in 2023.</p>
-    <div class="tag-row"><span>Responsibility</span><span>Operations</span><span>Customer Service</span><span>Coordination</span></div>
+    <p class="project-meta">Technical Practice</p>
+    <h3>Security Skill Building</h3>
+    <p>Practiced CTF challenges, malware analysis workflow, network packet inspection, Docker lab setup, and secure systems documentation.</p>
   </article>
 </section>
 
 ## Technical Skills
 
-<section class="skill-panel">
-  <h3>Featured Skills With Proof</h3>
-  <ul class="proof-list">
-    <li><strong>Wireshark</strong> - Used in TLS handshake analysis for the Applied Cryptography project.</li>
-    <li><strong>MITRE ATT&CK</strong> - Used to map observed behavior in the VoiceMemo.exe malware analysis report.</li>
-    <li><strong>Docker</strong> - Used in virtualization research and Ubuntu container setup documentation for repeatable lab environments.</li>
-    <li><strong>MIPS Assembly</strong> - Used to implement control flow and test cases for the wearable heat stroke prevention simulation.</li>
-    <li><strong>Java and JavaFX</strong> - Used to build the Student Task Management System with GUI actions and file-based persistence.</li>
-    <li><strong>Python and Random Forest</strong> - Used in the Titanic survival prediction project for preprocessing, classification, and evaluation.</li>
-    <li><strong>Requirements analysis</strong> - Used in MyFamilyHub and IIUM Bus Management System documentation to define scope, users, and system behavior.</li>
-  </ul>
-
-  <h3>Languages</h3>
-  <div class="tag-row"><span>Python</span><span>PHP</span><span>Java</span><span>JavaScript</span><span>SQL</span><span>PL/SQL</span><span>C</span><span>C++</span></div>
-
-  <h3>Security & Systems Tools</h3>
-  <div class="tag-row"><span>Wireshark</span><span>Suricata IDS</span><span>Wazuh</span><span>MITRE ATT&CK</span><span>Sysinternals</span><span>Proxmox</span><span>Docker</span><span>NS3</span><span>MATLAB</span></div>
-
-  <h3>Security Areas</h3>
-  <div class="tag-row"><span>Network Security</span><span>Malware Analysis</span><span>Intrusion Detection</span><span>IoT Security</span><span>Threat Analysis</span><span>Log Analysis</span><span>Linux</span><span>Security Monitoring</span><span>Vulnerability Analysis</span><span>Reverse Engineering</span><span>Cryptography</span><span>Risk Assessment</span></div>
+<section class="skill-proof-grid">
+  <article>
+    <h3>Programming</h3>
+    <p>Python, Java, C, C++, JavaScript, PHP, SQL.</p>
+    <span>Proof: JavaFX task manager, zakat calculator, C++ converter, Titanic ML project, database system.</span>
+  </article>
+  <article>
+    <h3>Security Tools</h3>
+    <p>Wireshark, Suricata, Wazuh, Docker, MITRE ATT&CK, Sysinternals.</p>
+    <span>Proof: malware analysis report, cryptography TLS analysis, Docker lab module, network defense focus.</span>
+  </article>
+  <article>
+    <h3>Security Areas</h3>
+    <p>Malware analysis, network defense, applied cryptography, security monitoring, secure systems.</p>
+    <span>Proof: VoiceMemo.exe analysis, applied cryptography project, CCNA coursework, CTF practice.</span>
+  </article>
 </section>
 
 ## Contact
 
-- **Email:** [majdiahmadi05@gmail.com](mailto:majdiahmadi05@gmail.com)
-- **GitHub:** [github.com/majdiahmadi](https://github.com/majdiahmadi)
-- **LinkedIn:** [linkedin.com/in/majdiahmadi](https://linkedin.com/in/majdiahmadi)
-- **Location:** Nilai, Negeri Sembilan, Malaysia
-- **Credly:** [credly.com/users/majdi-ahmadi](https://www.credly.com/users/majdi-ahmadi)
+Nilai, Negeri Sembilan, Malaysia  
+[majdiahmadi05@gmail.com](mailto:majdiahmadi05@gmail.com)  
+[GitHub](https://github.com/majdiahmadi) | [LinkedIn](https://www.linkedin.com/in/majdiahmadi) | [Credly](https://www.credly.com/users/majdi-ahmadi)

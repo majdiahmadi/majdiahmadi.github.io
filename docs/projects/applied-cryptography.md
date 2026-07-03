@@ -1,43 +1,52 @@
 # Applied Cryptography Group Project
 
+<section class="detail-header">
+  <p class="eyebrow">Course: Applied Cryptography</p>
+  <p>Cryptography project covering cipher analysis, key exchange, block cipher design, stream cipher design, TLS inspection, and secure messaging.</p>
+  <div class="tag-row">
+    <span>Diffie-Hellman</span>
+    <span>SPN Block Cipher</span>
+    <span>Vigenere</span>
+    <span>TLS</span>
+    <span>Wireshark</span>
+  </div>
+</section>
+
 ## Problem
 
-Demonstrate core cryptography concepts through analysis, implementation, protocol inspection, and secure communication design.
+The project connected theory with implementation. Each part required clear cryptographic reasoning, correct steps, and testable output.
 
 ## Tools Used
 
 <section class="focus-strip">
-  <span>Classical Ciphers</span>
-  <span>Diffie-Hellman</span>
-  <span>SPN Block Cipher</span>
-  <span>Stream Cipher</span>
-  <span>TLS</span>
+  <span>Python</span>
   <span>Wireshark</span>
+  <span>Classical ciphers</span>
+  <span>Diffie-Hellman</span>
+  <span>TLS analysis</span>
 </section>
 
 ## My Contribution
 
-I contributed to cryptographic analysis, implementation explanation, testing, and report documentation. I helped connect each cryptographic task to its purpose, assumptions, and security implications.
+I worked on cryptographic analysis, implementation explanation, testing, and report documentation.
 
 ## Process / Methodology
 
-1. Analyzed classical cipher material and explained decryption logic.
-2. Documented Diffie-Hellman key exchange concepts and implementation behavior.
-3. Explained SPN block cipher structure and test flow.
-4. Reviewed PRNG-based Vigenere stream cipher behavior.
-5. Used Wireshark to inspect TLS handshake behavior.
-6. Connected the cryptographic tasks to a secure messaging application workflow.
+1. Solved classical cipher decryption tasks and explained the reasoning.
+2. Documented Diffie-Hellman key exchange flow and shared key generation.
+3. Explained the SPN block cipher structure and testing steps.
+4. Covered a PRNG-based Vigenere stream cipher.
+5. Inspected TLS handshake behavior in Wireshark.
+6. Documented the secure messaging application and test results.
 
 ## Result / Output
 
-The project produced a complete applied cryptography report covering cipher analysis, key exchange, block and stream cipher design, TLS analysis, and secure messaging concepts.
+The final output was a complete group report with cryptographic tasks, implementation notes, testing evidence, and communication security analysis.
 
 ## Screenshots
 
-Screenshots will be added under `/screenshots/` when the final report assets are available.
-
-Placeholder path: `/screenshots/applied-cryptography/`
+<div class="screenshot-placeholder">Screenshots placeholder</div>
 
 ## What I Learned
 
-I learned how cryptography changes across contexts: manual cipher analysis, algorithm implementation, network protocol inspection, and secure application design each require different evidence and testing methods.
+I learned how small cryptographic design choices affect confidentiality and key handling. I also improved my ability to explain cryptographic steps in a way that can be tested.
