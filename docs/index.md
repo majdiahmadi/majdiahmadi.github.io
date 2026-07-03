@@ -4,20 +4,20 @@ layout: home
 
 <section class="signature-hero">
   <div>
-    <div class="hero-kicker">majdi@security:~$ portfolio --signal</div>
+    <div class="hero-kicker">cybersecurity portfolio</div>
     <h1 class="hero-title"><span class="glitch" data-text="Majdi Ahmadi">Majdi Ahmadi</span></h1>
     <p class="hero-copy">Cybersecurity student at IIUM focused on malware analysis, secure networks, applied cryptography, Docker-based labs, and security-aware systems engineering.</p>
     <div class="hero-actions">
-      <a class="cyber-button primary" href="/projects">View Projects</a>
-      <a class="cyber-button" href="/experience">Experience</a>
-      <a class="cyber-button" href="mailto:majdiahmadi05@gmail.com">Email</a>
+      <a class="cyber-button primary" href="/projects">View Cybersecurity Projects</a>
+      <a class="cyber-button" href="/resume.pdf">Download Resume</a>
+      <a class="cyber-button" href="mailto:majdiahmadi05@gmail.com">Contact Me</a>
     </div>
   </div>
 
   <aside class="terminal-card" aria-label="Cybersecurity profile terminal">
     <div class="terminal-bar"><span class="terminal-dot"></span><span>live-profile.session</span></div>
     <div class="terminal-body">
-      <div class="console-line">$ <span class="type-command">whoami --focus cybersecurity</span></div>
+      <div class="console-line"><span>profile</span></div>
       <div class="console-line"><strong>role:</strong> Security in Digital Systems student</div>
       <div class="console-line"><strong>base:</strong> IIUM Gombak | Nilai, Malaysia</div>
       <div class="console-line"><strong>signal:</strong> malware analysis, network defense, cryptography, Linux labs</div>
@@ -41,15 +41,13 @@ layout: home
   </div>
   <div class="stat-card">
     <span class="stat-value">CCNA</span>
-    <span class="stat-label">Introduction to Networks and SRWE certified</span>
+    <span class="stat-label">Cisco Networking Academy: Introduction to Networks and SRWE</span>
   </div>
 </section>
 
 ## About Me
 
-I am **Majdi Ahmadi Bin Mohd Zohdi**, a second-year **Bachelor of Computer Science (Honours) - Security in Digital Systems** student at **International Islamic University Malaysia (IIUM), Gombak**.
-
-My work is focused on practical cybersecurity: malware analysis, network security, secure communication, intrusion detection, IoT security, Linux environments, and security-aware software systems. I am building a portfolio that connects academic foundations with hands-on labs, research documentation, and applied security projects.
+I am a second-year Bachelor of Computer Science student specializing in Security in Digital Systems at IIUM. My main interests are malware analysis, network defense, applied cryptography, and security monitoring. I use my portfolio to document academic projects, lab work, reports, and technical experiments. My goal is to build practical evidence that shows how I analyze threats, explain security concepts, and develop secure systems.
 
 <section class="focus-strip">
   <span>Malware Analysis</span>

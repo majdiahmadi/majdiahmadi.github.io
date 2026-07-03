@@ -5,47 +5,40 @@ const emailIcon = '<svg fill="none" stroke="currentColor" stroke-width="1.8" str
 
 export default defineConfig({
   title: 'Majdi Ahmadi | Cybersecurity Portfolio',
-  description: 'Cybersecurity portfolio of Majdi Ahmadi, an IIUM Security in Digital Systems student focused on malware analysis, network security, cryptography, and secure systems.',
+  description: 'Cybersecurity portfolio of Majdi Ahmadi, an IIUM Security in Digital Systems student focused on malware analysis, network defense, applied cryptography, and security monitoring.',
   base: '/',
   cleanUrls: true,
   appearance: 'dark',
   head: [
-    ['meta', { name: 'theme-color', content: '#06100d' }],
+    ['meta', { name: 'theme-color', content: '#05070A' }],
     ['style', {}, `
       :root {
-        --vp-c-brand-1: #00b879;
-        --vp-c-brand-2: #00df91;
-        --vp-c-brand-3: #0aff9d;
-        --vp-c-brand-soft: rgba(10, 255, 157, 0.14);
-        --vp-font-family-base: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        --vp-c-brand-1: #38BDF8;
+        --vp-c-brand-2: #7DD3FC;
+        --vp-c-brand-3: #0EA5E9;
+        --vp-c-brand-soft: rgba(56, 189, 248, 0.14);
+        --vp-font-family-base: Inter, Geist, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
         --vp-font-family-mono: "JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", monospace;
       }
 
       .dark {
-        --vp-c-bg: #06100d;
-        --vp-c-bg-alt: #091713;
-        --vp-c-bg-elv: #0c1d18;
-        --vp-c-bg-soft: #0f221d;
-        --vp-c-text-1: #effff8;
-        --vp-c-text-2: #b7d3c9;
-        --vp-c-text-3: #7f9d93;
-        --vp-c-divider: rgba(140, 255, 215, 0.15);
-        --vp-c-gutter: rgba(140, 255, 215, 0.12);
-        --vp-code-block-bg: #050d0a;
-        --vp-code-bg: rgba(10, 255, 157, 0.11);
+        --vp-c-bg: #05070A;
+        --vp-c-bg-alt: #080B10;
+        --vp-c-bg-elv: #0D1117;
+        --vp-c-bg-soft: #0D1117;
+        --vp-c-text-1: #F8FAFC;
+        --vp-c-text-2: #CBD5E1;
+        --vp-c-text-3: #94A3B8;
+        --vp-c-divider: #1F2937;
+        --vp-c-gutter: #1F2937;
+        --vp-code-block-bg: #0D1117;
+        --vp-code-bg: rgba(56, 189, 248, 0.1);
       }
 
       html:not(.dark) {
-        --vp-c-brand-1: #007c55;
-        --vp-c-brand-2: #00a36d;
-        --vp-c-brand-3: #00c984;
-        --vp-c-brand-soft: rgba(0, 163, 109, 0.13);
-        --vp-c-bg: #f7fbf9;
-        --vp-c-bg-alt: #eef7f3;
-        --vp-c-bg-soft: #edf8f4;
-        --vp-c-text-1: #0b1d18;
-        --vp-c-text-2: #334e45;
-        --vp-c-divider: rgba(0, 124, 85, 0.18);
+        --vp-c-brand-1: #0284C7;
+        --vp-c-brand-2: #0369A1;
+        --vp-c-brand-3: #38BDF8;
       }
 
       * {
@@ -53,23 +46,7 @@ export default defineConfig({
       }
 
       body {
-        background:
-          linear-gradient(180deg, rgba(10, 255, 157, 0.07), transparent 420px),
-          radial-gradient(circle at top right, rgba(94, 231, 255, 0.11), transparent 360px),
-          var(--vp-c-bg);
-      }
-
-      body::before {
-        position: fixed;
-        inset: 0;
-        z-index: -1;
-        pointer-events: none;
-        content: "";
-        background-image:
-          linear-gradient(rgba(140, 255, 215, 0.055) 1px, transparent 1px),
-          linear-gradient(90deg, rgba(140, 255, 215, 0.055) 1px, transparent 1px);
-        background-size: 44px 44px;
-        mask-image: linear-gradient(to bottom, black 0%, transparent 72%);
+        background: var(--vp-c-bg);
       }
 
       a {
@@ -77,13 +54,14 @@ export default defineConfig({
       }
 
       .VPNav {
-        border-bottom: 1px solid rgba(140, 255, 215, 0.09);
-        backdrop-filter: blur(18px);
+        border-bottom: 1px solid var(--vp-c-divider);
+        background: rgba(5, 7, 10, 0.88);
+        backdrop-filter: blur(14px);
       }
 
       .VPFooter {
         border-top: 1px solid var(--vp-c-divider);
-        background: linear-gradient(180deg, transparent, rgba(10, 255, 157, 0.04));
+        background: #05070A;
       }
 
       .VPHome {
@@ -116,33 +94,21 @@ export default defineConfig({
       .stat-card,
       .project-card,
       .timeline-content,
-      .skill-panel {
-        border: 1px solid var(--vp-c-divider);
-        background:
-          linear-gradient(145deg, rgba(10, 255, 157, 0.08), rgba(94, 231, 255, 0.035) 45%, rgba(255, 56, 100, 0.035)),
-          rgba(8, 22, 18, 0.78);
-        box-shadow: 0 22px 70px rgba(0, 0, 0, 0.22);
-        backdrop-filter: blur(10px);
+      .skill-panel,
+      .terminal-card {
+        border: 1px solid #1F2937;
+        border-radius: 16px;
+        background: #0D1117;
+        box-shadow: none;
       }
 
       .signature-hero {
-        position: relative;
         display: grid;
         grid-template-columns: minmax(0, 1.25fr) minmax(300px, 0.75fr);
         gap: clamp(24px, 5vw, 58px);
         align-items: center;
         min-height: calc(100vh - 176px);
         padding: clamp(46px, 8vw, 92px) 0 clamp(32px, 6vw, 70px);
-        overflow: hidden;
-      }
-
-      .signature-hero::before {
-        position: absolute;
-        inset: 18px 0 auto;
-        height: 1px;
-        content: "";
-        background: linear-gradient(90deg, transparent, var(--vp-c-brand-3), rgba(94, 231, 255, 0.72), transparent);
-        opacity: 0.8;
       }
 
       .hero-kicker,
@@ -159,17 +125,16 @@ export default defineConfig({
       .eyebrow {
         display: inline-flex;
         width: fit-content;
-        border: 1px solid rgba(10, 255, 157, 0.28);
+        border: 1px solid rgba(56, 189, 248, 0.32);
         border-radius: 999px;
-        background: rgba(10, 255, 157, 0.08);
-        color: var(--vp-c-brand-3);
+        background: rgba(56, 189, 248, 0.08);
+        color: #38BDF8;
         font-size: 12px;
         line-height: 1.2;
         padding: 8px 12px;
       }
 
       .hero-title {
-        position: relative;
         margin: 24px 0 16px;
         max-width: 830px;
         color: var(--vp-c-text-1);
@@ -180,35 +145,12 @@ export default defineConfig({
       }
 
       .hero-title .glitch {
-        position: relative;
-        display: inline-block;
-        color: transparent;
-        background: linear-gradient(110deg, #f1fff9 0%, #0aff9d 52%, #5ee7ff 100%);
-        -webkit-background-clip: text;
-        background-clip: text;
+        color: var(--vp-c-text-1);
       }
 
       .hero-title .glitch::before,
       .hero-title .glitch::after {
-        position: absolute;
-        inset: 0;
-        content: attr(data-text);
-        opacity: 0;
-      }
-
-      .hero-title .glitch::before {
-        color: #5ee7ff;
-        transform: translate(2px, 0);
-      }
-
-      .hero-title .glitch::after {
-        color: #ff3864;
-        transform: translate(-2px, 0);
-      }
-
-      .signature-hero:hover .glitch::before,
-      .signature-hero:hover .glitch::after {
-        animation: glitch-shift 700ms steps(2, end) 1;
+        display: none;
       }
 
       .hero-copy {
@@ -218,69 +160,61 @@ export default defineConfig({
       }
 
       .hero-actions,
-      .terminal-actions {
+      .terminal-actions,
+      .project-links {
         display: flex;
         flex-wrap: wrap;
-        gap: 12px;
-        margin-top: 28px;
+        gap: 10px;
+        margin-top: 24px;
       }
 
-      .cyber-button {
+      .cyber-button,
+      .project-links a {
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        min-height: 44px;
-        border: 1px solid rgba(10, 255, 157, 0.34);
+        min-height: 42px;
+        border: 1px solid #1F2937;
         border-radius: 8px;
+        background: #0D1117;
         color: var(--vp-c-text-1);
         font-weight: 700;
         line-height: 1.2;
-        padding: 11px 16px;
+        padding: 10px 14px;
         text-decoration: none;
-        transition: transform 180ms ease, border-color 180ms ease, background 180ms ease, box-shadow 180ms ease;
+        transition: border-color 160ms ease, background 160ms ease, color 160ms ease;
       }
 
-      .cyber-button.primary {
-        background: var(--vp-c-brand-3);
-        color: #04100c;
-        box-shadow: 0 0 34px rgba(10, 255, 157, 0.26);
+      .cyber-button.primary,
+      .project-links a:first-child {
+        border-color: #38BDF8;
+        background: #38BDF8;
+        color: #020617;
       }
 
-      .cyber-button:hover {
-        border-color: var(--vp-c-brand-3);
-        background: rgba(10, 255, 157, 0.1);
-        transform: translateY(-2px);
+      .cyber-button:hover,
+      .project-links a:hover {
+        border-color: #38BDF8;
+        background: rgba(56, 189, 248, 0.1);
+        color: #E0F2FE;
         text-decoration: none;
       }
 
-      .cyber-button.primary:hover {
-        background: #5effbd;
+      .cyber-button.primary:hover,
+      .project-links a:first-child:hover {
+        background: #7DD3FC;
+        color: #020617;
       }
 
       .terminal-card {
-        position: relative;
         overflow: hidden;
-        border: 1px solid rgba(140, 255, 215, 0.2);
-        border-radius: 8px;
-        background: rgba(3, 11, 8, 0.86);
-        box-shadow: 0 28px 90px rgba(0, 0, 0, 0.32);
-      }
-
-      .terminal-card::after {
-        position: absolute;
-        inset: 0;
-        pointer-events: none;
-        content: "";
-        background: linear-gradient(transparent 50%, rgba(10, 255, 157, 0.035) 50%);
-        background-size: 100% 8px;
-        opacity: 0.5;
       }
 
       .terminal-bar {
         display: flex;
         align-items: center;
         gap: 8px;
-        border-bottom: 1px solid rgba(140, 255, 215, 0.14);
+        border-bottom: 1px solid #1F2937;
         color: var(--vp-c-text-3);
         font-size: 12px;
         padding: 12px 14px;
@@ -290,13 +224,11 @@ export default defineConfig({
         width: 9px;
         height: 9px;
         border-radius: 999px;
-        background: var(--vp-c-brand-3);
-        box-shadow: 14px 0 #5ee7ff, 28px 0 #ff3864;
+        background: #38BDF8;
+        box-shadow: 14px 0 #64748B, 28px 0 #22C55E;
       }
 
       .terminal-body {
-        position: relative;
-        z-index: 1;
         display: grid;
         gap: 12px;
         padding: 22px;
@@ -310,18 +242,7 @@ export default defineConfig({
 
       .console-line strong,
       .console-line span {
-        color: var(--vp-c-brand-3);
-      }
-
-      .type-command {
-        display: inline-block;
-        max-width: 100%;
-        overflow: hidden;
-        border-right: 2px solid var(--vp-c-brand-3);
-        color: var(--vp-c-brand-3);
-        vertical-align: bottom;
-        white-space: nowrap;
-        animation: typing 3.2s steps(34, end) infinite alternate, caret 900ms step-end infinite;
+        color: #38BDF8;
       }
 
       .stats-grid,
@@ -342,16 +263,6 @@ export default defineConfig({
         grid-template-columns: repeat(4, minmax(0, 1fr));
       }
 
-      .stat-card,
-      .project-card,
-      .signal-panel,
-      .research-note,
-      .timeline-content,
-      .skill-panel,
-      .page-brief {
-        border-radius: 8px;
-      }
-
       .stat-card {
         min-height: 132px;
         padding: 22px;
@@ -359,7 +270,7 @@ export default defineConfig({
 
       .stat-value {
         display: block;
-        color: var(--vp-c-brand-3);
+        color: #38BDF8;
         font-family: var(--vp-font-family-mono);
         font-size: clamp(24px, 3vw, 34px);
         font-weight: 800;
@@ -387,9 +298,9 @@ export default defineConfig({
         display: inline-flex;
         align-items: center;
         min-height: 28px;
-        border: 1px solid rgba(10, 255, 157, 0.24);
+        border: 1px solid #1F2937;
         border-radius: 999px;
-        background: rgba(10, 255, 157, 0.075);
+        background: rgba(148, 163, 184, 0.08);
         color: var(--vp-c-text-1);
         font-family: var(--vp-font-family-mono);
         font-size: 12px;
@@ -408,26 +319,15 @@ export default defineConfig({
       }
 
       .project-card {
-        position: relative;
         min-width: 0;
         overflow: hidden;
         padding: 22px;
-        transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
-      }
-
-      .project-card::before {
-        position: absolute;
-        inset: 0 auto 0 0;
-        width: 3px;
-        content: "";
-        background: linear-gradient(var(--vp-c-brand-3), #5ee7ff, #ff3864);
-        opacity: 0.7;
+        transition: border-color 160ms ease, background 160ms ease;
       }
 
       .project-card:hover {
-        border-color: rgba(10, 255, 157, 0.42);
-        box-shadow: 0 28px 90px rgba(0, 0, 0, 0.28), 0 0 30px rgba(10, 255, 157, 0.08);
-        transform: translateY(-4px);
+        border-color: rgba(56, 189, 248, 0.5);
+        background: #111827;
       }
 
       .project-card h3 {
@@ -443,7 +343,7 @@ export default defineConfig({
       }
 
       .project-meta {
-        color: var(--vp-c-brand-3);
+        color: #38BDF8;
         font-size: 12px;
         line-height: 1.55;
       }
@@ -470,8 +370,8 @@ export default defineConfig({
       .timeline-date {
         position: sticky;
         top: 86px;
-        border-left: 2px solid var(--vp-c-brand-3);
-        color: var(--vp-c-brand-3);
+        border-left: 2px solid #38BDF8;
+        color: #38BDF8;
         font-size: 13px;
         padding: 8px 0 8px 14px;
       }
@@ -492,24 +392,31 @@ export default defineConfig({
         margin-top: 28px;
       }
 
+      .proof-list {
+        display: grid;
+        gap: 14px;
+        margin: 18px 0 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      .proof-list li {
+        border-top: 1px solid var(--vp-c-divider);
+        color: var(--vp-c-text-2);
+        padding-top: 14px;
+      }
+
+      .proof-list li:first-child {
+        border-top: 0;
+        padding-top: 0;
+      }
+
+      .proof-list strong {
+        color: var(--vp-c-text-1);
+      }
+
       .VPSocialLink:hover {
-        color: var(--vp-c-brand-3);
-      }
-
-      @keyframes typing {
-        from { width: 13ch; }
-        to { width: 34ch; }
-      }
-
-      @keyframes caret {
-        50% { border-color: transparent; }
-      }
-
-      @keyframes glitch-shift {
-        0%, 100% { opacity: 0; clip-path: inset(0 0 0 0); }
-        15% { opacity: 0.75; clip-path: inset(12% 0 62% 0); }
-        35% { opacity: 0.55; clip-path: inset(68% 0 10% 0); }
-        58% { opacity: 0.7; clip-path: inset(38% 0 35% 0); }
+        color: #38BDF8;
       }
 
       @media (prefers-reduced-motion: reduce) {
@@ -574,12 +481,6 @@ export default defineConfig({
           border-bottom: 1px solid var(--vp-c-divider);
           padding: 0 0 8px;
         }
-
-        .type-command {
-          animation: none;
-          border-right: 0;
-          white-space: normal;
-        }
       }
     `],
   ],
@@ -600,7 +501,7 @@ export default defineConfig({
       { icon: { svg: emailIcon }, link: 'mailto:majdiahmadi05@gmail.com' },
     ],
     footer: {
-      message: 'Cybersecurity portfolio for malware analysis, secure systems, and network defense.',
+      message: 'Cybersecurity portfolio for malware analysis, network defense, and applied cryptography.',
       copyright: 'Majdi Ahmadi | majdiahmadi05@gmail.com | GitHub: majdiahmadi | LinkedIn: majdiahmadi',
     },
   },

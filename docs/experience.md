@@ -9,6 +9,11 @@
 
 Based in **Nilai, Negeri Sembilan, Malaysia**, I am developing a cybersecurity-focused foundation across malware analysis, network security, intrusion detection, IoT security, applied cryptography, Linux, log analysis, and security monitoring.
 
+<div class="hero-actions">
+  <a class="cyber-button primary" href="/resume.pdf">Download Resume</a>
+  <a class="cyber-button" href="mailto:majdiahmadi05@gmail.com">Contact Me</a>
+</div>
+
 <section class="focus-strip">
   <span>SOC Fundamentals</span>
   <span>Malware Analysis</span>
@@ -31,8 +36,8 @@ Based in **Nilai, Negeri Sembilan, Malaysia**, I am developing a cybersecurity-f
     <span class="stat-label">SPM result with Principal's List Award</span>
   </div>
   <div class="stat-card">
-    <span class="stat-value">CCNA</span>
-    <span class="stat-label">Cisco networking foundation credentials</span>
+    <span class="stat-value">Cisco</span>
+    <span class="stat-label">Networking Academy: CCNA Introduction to Networks and SRWE</span>
   </div>
 </section>
 
@@ -73,22 +78,22 @@ Based in **Nilai, Negeri Sembilan, Malaysia**, I am developing a cybersecurity-f
 ## Certifications
 
 ::: tip Verified Credentials
-Certification records are available on [Credly](https://www.credly.com/users/majdi-ahmadi).
+Certification records are available on [Credly](https://www.credly.com/users/majdi-ahmadi). Current networking coursework: Cisco Networking Academy: CCNA Introduction to Networks and Switching, Routing, and Wireless Essentials.
 :::
 
 <section class="project-grid">
   <article class="project-card">
     <div class="project-meta">Cisco Networking Academy | Issued January 17, 2026</div>
-    <h3>CCNA: Switching, Routing, and Wireless Essentials</h3>
-    <p>Cisco-certified training in switching, routing, wireless networking, VLANs, inter-VLAN routing, routing concepts, and core network operations.</p>
+    <h3>Cisco Networking Academy: CCNA Switching, Routing, and Wireless Essentials</h3>
+    <p>Cisco Networking Academy coursework covering switching, routing, wireless networking, VLANs, inter-VLAN routing, routing concepts, and core network operations.</p>
     <div class="tag-row"><span>CCNA</span><span>Switching</span><span>Routing</span><span>Wireless</span><span>Networking</span></div>
     <p class="project-contribution"><a href="https://www.credly.com/badges/ccna-switching-routing-and-wireless-essentials">View credential on Credly</a></p>
   </article>
 
   <article class="project-card">
     <div class="project-meta">Cisco Networking Academy | Issued June 3, 2025</div>
-    <h3>CCNA: Introduction to Networks</h3>
-    <p>Cisco-certified foundation in network models, IP addressing, Ethernet, connectivity, network services, and essential networking concepts used in security and systems work.</p>
+    <h3>Cisco Networking Academy: CCNA Introduction to Networks</h3>
+    <p>Cisco Networking Academy coursework covering network models, IP addressing, Ethernet, connectivity, network services, and essential networking concepts used in security and systems work.</p>
     <div class="tag-row"><span>CCNA</span><span>IP Addressing</span><span>Ethernet</span><span>Network Models</span><span>Security Foundation</span></div>
     <p class="project-contribution"><a href="https://www.credly.com/badges/ccna-introduction-to-networks">View credential on Credly</a></p>
   </article>
@@ -122,6 +127,17 @@ Certification records are available on [Credly](https://www.credly.com/users/maj
 ## Technical Skills
 
 <section class="skill-panel">
+  <h3>Featured Skills With Proof</h3>
+  <ul class="proof-list">
+    <li><strong>Wireshark</strong> - Used in TLS handshake analysis for the Applied Cryptography project.</li>
+    <li><strong>MITRE ATT&CK</strong> - Used to map observed behavior in the VoiceMemo.exe malware analysis report.</li>
+    <li><strong>Docker</strong> - Used in virtualization research and Ubuntu container setup documentation for repeatable lab environments.</li>
+    <li><strong>MIPS Assembly</strong> - Used to implement control flow and test cases for the wearable heat stroke prevention simulation.</li>
+    <li><strong>Java and JavaFX</strong> - Used to build the Student Task Management System with GUI actions and file-based persistence.</li>
+    <li><strong>Python and Random Forest</strong> - Used in the Titanic survival prediction project for preprocessing, classification, and evaluation.</li>
+    <li><strong>Requirements analysis</strong> - Used in MyFamilyHub and IIUM Bus Management System documentation to define scope, users, and system behavior.</li>
+  </ul>
+
   <h3>Languages</h3>
   <div class="tag-row"><span>Python</span><span>PHP</span><span>Java</span><span>JavaScript</span><span>SQL</span><span>PL/SQL</span><span>C</span><span>C++</span></div>
 
@@ -135,6 +151,7 @@ Certification records are available on [Credly](https://www.credly.com/users/maj
 ## Contact
 
 - **Email:** [majdiahmadi05@gmail.com](mailto:majdiahmadi05@gmail.com)
-- **Phone:** [+60 11-61665395](tel:+601161665395)
+- **GitHub:** [github.com/majdiahmadi](https://github.com/majdiahmadi)
+- **LinkedIn:** [linkedin.com/in/majdiahmadi](https://linkedin.com/in/majdiahmadi)
 - **Location:** Nilai, Negeri Sembilan, Malaysia
 - **Credly:** [credly.com/users/majdi-ahmadi](https://www.credly.com/users/majdi-ahmadi)
