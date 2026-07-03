@@ -1,10 +1,10 @@
 import { defineConfig } from 'vitepress'
 
-const credlyIcon = '<svg fill="currentColor" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M11.76 2.28c-.6 0-1.2.15-1.73.45L4.2 6.18c-.94.53-1.5 1.5-1.5 2.58v6.48c0 1.08.56 2.05 1.5 2.58l5.83 3.45c.53.3 1.13.45 1.73.45s1.2-.15 1.73-.45l5.83-3.45c.94-.53 1.5-1.5 1.5-2.58V8.76c0-1.08-.56-2.05-1.5-2.58l-5.83-3.45c-.53-.3-1.13-.45-1.73-.45zm.06 1.5c.52 0 1.05.15 1.5.45l2.58 1.5-4.08 2.33-4.08-2.33 2.58-1.5c.45-.3.98-.45 1.5-.45zM9.32 8.5l4 2.32v8.18l-3.5-2.08c-.45-.3-.73-.75-.73-1.32V9.24c0-.32.1-.58.23-.74zm5.32 0c.13.16.23.42.23.74v6.36c0 .57-.28 1.02-.73 1.32l-3.5 2.08v-8.18l4-2.32z"/></svg>'
-const emailIcon = '<svg fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3.8 7 8.2 6 8.2-6"/></svg>'
+const credlyIcon = '<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M11.76 1.68c-.62 0-1.25.16-1.8.47L4.11 5.61c-1.09.63-1.77 1.77-1.77 3.07v6.64c0 1.3.68 2.44 1.77 3.07l5.85 3.57c.55.33 1.18.5 1.8.5s1.25-.17 1.8-.5l5.85-3.57c1.09-.63 1.77-1.77 1.77-3.07V8.68c0-1.3-.68-2.44-1.77-3.07L13.56 2.15c-.55-.31-1.18-.47-1.8-.47zm0 2.24c.3 0 .6.08.84.22l3.34 2.04-4.18 2.69-4.18-2.69 3.34-2.04c.24-.14.54-.22.84-.22zm-4.68 4.98 4.68 3.01v8.07l-3.91-2.39c-.52-.32-.85-.87-.85-1.52V9.71c0-.28.03-.52.08-.81zm9.36 0c.05.29.08.53.08.81v5.36c0 .65-.33 1.2-.85 1.52l-3.91 2.39v-8.07l4.68-3.01z"/></svg>'
+const gmailIcon = '<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>'
 
 export default defineConfig({
-  title: 'Majdi Ahmadi | Cybersecurity Portfolio',
+  title: 'Majdi Ahmadi',
   description: 'Cybersecurity portfolio of Majdi Ahmadi, an IIUM Security in Digital Systems student focused on malware analysis, network defense, applied cryptography, and security monitoring.',
   base: '/',
   cleanUrls: true,
@@ -501,7 +501,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/majdiahmadi' },
       { icon: 'linkedin', link: 'https://linkedin.com/in/majdiahmadi' },
       { icon: { svg: credlyIcon }, link: 'https://www.credly.com/users/majdi-ahmadi' },
-      { icon: { svg: emailIcon }, link: 'mailto:majdiahmadi05@gmail.com' },
+      { icon: { svg: gmailIcon }, link: 'mailto:majdiahmadi05@gmail.com' },
     ],
     footer: {
       message: 'Cybersecurity portfolio for malware analysis, network defense, and applied cryptography.',
