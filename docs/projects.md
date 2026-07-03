@@ -40,7 +40,7 @@
     <h3>Malware Analysis - VoiceMemo.exe</h3>
     <p>Static malware analysis with hashes, IOCs, MITRE ATT&CK mapping, and mitigation notes.</p>
     <div class="tag-row"><span>Malware Analysis</span><span>IOC</span><span>MITRE ATT&CK</span></div>
-    <div class="project-links"><a href="/projects/malware-analysis-voicememo">View Report</a><a href="#">View Code</a><a href="#">View Screenshots</a></div>
+    <div class="project-links"><a href="/projects/malware-analysis-voicememo">Details</a><a href="#">View Code</a></div>
   </article>
 
   <article class="project-card">
@@ -48,7 +48,7 @@
     <h3>Applied Cryptography Group Project</h3>
     <p>Cryptography exercises covering key exchange, block ciphers, stream ciphers, TLS, and secure messaging.</p>
     <div class="tag-row"><span>Cryptography</span><span>TLS</span><span>Wireshark</span></div>
-    <div class="project-links"><a href="/projects/applied-cryptography">View Report</a><a href="#">View Code</a><a href="#">View Screenshots</a></div>
+    <div class="project-links"><a href="/projects/applied-cryptography">Details</a><a href="#">View Code</a></div>
   </article>
 
   <article class="project-card">
@@ -56,7 +56,7 @@
     <h3>Docker vs Virtual Machines for OS Coursework</h3>
     <p>Comparison of Docker and VMs for faster, lighter, and more reliable operating systems labs.</p>
     <div class="tag-row"><span>Docker</span><span>Containers</span><span>Virtualization</span></div>
-    <div class="project-links"><a href="/projects/docker-virtualization">View Report</a><a href="#">View Code</a><a href="#">View Screenshots</a></div>
+    <div class="project-links"><a href="/projects/docker-virtualization">Details</a><a href="#">View Code</a></div>
   </article>
 
   <article class="project-card">
@@ -64,7 +64,7 @@
     <h3>Wearable Heat Stroke Prevention System</h3>
     <p>MIPS assembly simulation that turns sensor readings into heat-stress safety alerts.</p>
     <div class="tag-row"><span>MIPS Assembly</span><span>Sensors</span><span>Control Flow</span></div>
-    <div class="project-links"><a href="/projects/mips-heat-stroke">View Report</a><a href="#">View Code</a><a href="#">View Screenshots</a></div>
+    <div class="project-links"><a href="/projects/mips-heat-stroke">Details</a><a href="#">View Code</a></div>
   </article>
 </section>
 
@@ -76,7 +76,7 @@
     <h3>Docker Ubuntu Container Setup Module</h3>
     <p>Repeatable Docker Ubuntu lab setup guide for containers, mounts, commands, and cleanup.</p>
     <div class="tag-row"><span>Docker</span><span>Ubuntu</span><span>Documentation</span></div>
-    <div class="project-links"><a href="#">View Report</a><a href="#">View Code</a><a href="#">View Screenshots</a></div>
+    <div class="project-links"><a href="#">Details</a><a href="#">View Code</a></div>
   </article>
 
   <article class="project-card">
@@ -84,7 +84,7 @@
     <h3>MyFamilyHub - Family Management System</h3>
     <p>Family management platform documented across requirements, design, implementation, and testing.</p>
     <div class="tag-row"><span>Software Engineering</span><span>SDLC</span><span>MVC</span></div>
-    <div class="project-links"><a href="#">View Report</a><a href="#">View Code</a><a href="#">View Screenshots</a></div>
+    <div class="project-links"><a href="#">Details</a><a href="#">View Code</a></div>
   </article>
 
   <article class="project-card">
@@ -92,7 +92,7 @@
     <h3>TaskTrek - Student Task Management</h3>
     <p>High-fidelity student productivity prototype with dashboard, assignments, calendar, and testing.</p>
     <div class="tag-row"><span>UX Design</span><span>Figma</span><span>Usability Testing</span></div>
-    <div class="project-links"><a href="#">View Report</a><a href="#">View Code</a><a href="#">View Screenshots</a></div>
+    <div class="project-links"><a href="#">Details</a><a href="#">View Code</a></div>
   </article>
 
   <article class="project-card">
@@ -100,7 +100,7 @@
     <h3>Titanic Survival Prediction</h3>
     <p>Random Forest survival classifier built from cleaned, explored, and engineered Titanic data.</p>
     <div class="tag-row"><span>Python</span><span>Machine Learning</span><span>Random Forest</span></div>
-    <div class="project-links"><a href="#">View Report</a><a href="#">View Code</a><a href="#">View Screenshots</a></div>
+    <div class="project-links"><a href="#">Details</a><a href="#">View Code</a></div>
   </article>
 
   <article class="project-card">
@@ -108,7 +108,7 @@
     <h3>IIUM Bus Management System</h3>
     <p>Campus bus system proposal with scope, planning, use cases, and stakeholder questionnaires.</p>
     <div class="tag-row"><span>System Analysis</span><span>Requirements</span><span>Planning</span></div>
-    <div class="project-links"><a href="#">View Report</a><a href="#">View Code</a><a href="#">View Screenshots</a></div>
+    <div class="project-links"><a href="#">Details</a><a href="#">View Code</a></div>
   </article>
 </section>
 
@@ -120,7 +120,7 @@
     <h3>KICTEcoCycle - Recycling & Rewards DB</h3>
     <p>Recycling rewards database for students, bins, waste types, points, and redemptions.</p>
     <div class="tag-row"><span>Database Design</span><span>ERD</span><span>Sustainability</span></div>
-    <div class="project-links"><a href="#">View Report</a><a href="#">View Code</a><a href="#">View Screenshots</a></div>
+    <div class="project-links"><a href="#">Details</a><a href="#">View Code</a></div>
   </article>
 
   <article class="project-card">
@@ -128,7 +128,7 @@
     <h3>Student Task Management System</h3>
     <p>JavaFX task manager with CRUD, search, filtering, validation, and file persistence.</p>
     <div class="tag-row"><span>Java</span><span>JavaFX</span><span>OOP</span></div>
-    <div class="project-links"><a href="#">View Report</a><a href="#">View Code</a><a href="#">View Screenshots</a></div>
+    <div class="project-links"><a href="#">Details</a><a href="#">View Code</a></div>
   </article>
 
   <article class="project-card">
@@ -136,7 +136,7 @@
     <h3>Personal Zakat Calculator</h3>
     <p>Java console calculator for multiple zakat types with menus, validation, and receipts.</p>
     <div class="tag-row"><span>Java</span><span>Menu System</span><span>Islamic Finance</span></div>
-    <div class="project-links"><a href="#">View Report</a><a href="#">View Code</a><a href="#">View Screenshots</a></div>
+    <div class="project-links"><a href="#">Details</a><a href="#">View Code</a></div>
   </article>
 
   <article class="project-card">
@@ -144,7 +144,7 @@
     <h3>Electrical Unit Converter</h3>
     <p>C++ menu program for voltage, current, resistance, and power conversions with validation.</p>
     <div class="tag-row"><span>C++</span><span>Functions</span><span>Input Validation</span></div>
-    <div class="project-links"><a href="#">View Report</a><a href="#">View Code</a><a href="#">View Screenshots</a></div>
+    <div class="project-links"><a href="#">Details</a><a href="#">View Code</a></div>
   </article>
 
   <article class="project-card">
@@ -152,6 +152,6 @@
     <h3>Educational Tablet OS Simulator</h3>
     <p>Adaptive educational tablet OS concept for scheduling, memory, and I/O across learning modes.</p>
     <div class="tag-row"><span>Operating Systems</span><span>CPU Scheduling</span><span>Memory</span></div>
-    <div class="project-links"><a href="#">View Report</a><a href="#">View Code</a><a href="#">View Screenshots</a></div>
+    <div class="project-links"><a href="#">Details</a><a href="#">View Code</a></div>
   </article>
 </section>
