@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 
-const credlyIcon = '<svg fill="currentColor" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="10"/><path fill="var(--vp-c-bg)" d="M8.1 12.2 10.6 14.7 16.4 8.9 17.8 10.3 10.6 17.5 6.7 13.6z"/></svg>'
+const credlyIcon = '<svg fill="currentColor" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M11.76 2.28c-.6 0-1.2.15-1.73.45L4.2 6.18c-.94.53-1.5 1.5-1.5 2.58v6.48c0 1.08.56 2.05 1.5 2.58l5.83 3.45c.53.3 1.13.45 1.73.45s1.2-.15 1.73-.45l5.83-3.45c.94-.53 1.5-1.5 1.5-2.58V8.76c0-1.08-.56-2.05-1.5-2.58l-5.83-3.45c-.53-.3-1.13-.45-1.73-.45zm.06 1.5c.52 0 1.05.15 1.5.45l2.58 1.5-4.08 2.33-4.08-2.33 2.58-1.5c.45-.3.98-.45 1.5-.45zM9.32 8.5l4 2.32v8.18l-3.5-2.08c-.45-.3-.73-.75-.73-1.32V9.24c0-.32.1-.58.23-.74zm5.32 0c.13.16.23.42.23.74v6.36c0 .57-.28 1.02-.73 1.32l-3.5 2.08v-8.18l4-2.32z"/></svg>'
 const emailIcon = '<svg fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3.8 7 8.2 6 8.2-6"/></svg>'
 
 export default defineConfig({
@@ -448,11 +448,14 @@ export default defineConfig({
         .signature-hero,
         .stats-grid,
         .stats-grid.compact,
-        .project-grid,
         .signal-grid,
         .research-grid,
         .timeline-item {
           grid-template-columns: 1fr;
+        }
+
+        .project-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
         }
 
         .signature-hero {

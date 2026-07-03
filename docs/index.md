@@ -4,7 +4,6 @@ layout: home
 
 <section class="signature-hero">
   <div>
-    <div class="hero-kicker">cybersecurity portfolio</div>
     <h1 class="hero-title"><span class="glitch" data-text="Majdi Ahmadi">Majdi Ahmadi</span></h1>
     <p class="hero-copy">Cybersecurity student at IIUM focused on malware analysis, secure networks, applied cryptography, Docker-based labs, and security-aware systems engineering.</p>
     <div class="hero-actions">
