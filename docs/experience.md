@@ -2,197 +2,139 @@
 
 ## Profile
 
-**Majdi Ahmadi Bin Mohd Zohdi** is a second-year **Bachelor of Computer Science (Honours) - Security in Digital Systems** student at **International Islamic University Malaysia (IIUM), Gombak**.
+<section class="page-brief">
+  <div class="eyebrow">profile / education / credentials</div>
+  <p><strong>Majdi Ahmadi Bin Mohd Zohdi</strong> is a second-year <strong>Bachelor of Computer Science (Honours) - Security in Digital Systems</strong> student at <strong>International Islamic University Malaysia (IIUM), Gombak</strong>.</p>
+</section>
 
-Based in **Nilai, Negeri Sembilan, Malaysia**, I am building a cybersecurity-focused foundation across network security, malware analysis, intrusion detection, IoT security, Linux, log analysis, and security monitoring.
+Based in **Nilai, Negeri Sembilan, Malaysia**, I am developing a cybersecurity-focused foundation across malware analysis, network security, intrusion detection, IoT security, applied cryptography, Linux, log analysis, and security monitoring.
 
-::: tip Professional Direction
-I am interested in cybersecurity roles and projects involving SOC operations, malware analysis, network defense, IoT security, threat analysis, and secure systems.
-:::
+<section class="focus-strip">
+  <span>SOC Fundamentals</span>
+  <span>Malware Analysis</span>
+  <span>Network Defense</span>
+  <span>IoT Security</span>
+  <span>Secure Systems</span>
+</section>
 
-## Experience Timeline
-
-### Assistant Invigilator
-
-<Badge type="info" text="USIM" />
-<Badge type="tip" text="Operations" />
-<Badge type="tip" text="Responsibility" />
-
-**Universiti Sains Islam Malaysia (USIM)**  
-**2024, 2025**
-
-Supported examination operations as an assistant invigilator, helping maintain proper exam procedures, student coordination, and a controlled assessment environment.
-
-### Retail Salesworker
-
-<Badge type="info" text="Tone & Mann" />
-<Badge type="tip" text="Customer Service" />
-<Badge type="tip" text="Retail" />
-
-**Tone & Mann, AEON**  
-**2023**
-
-Handled retail sales responsibilities, customer service, product assistance, and day-to-day store operations.
+<section class="stats-grid compact">
+  <div class="stat-card">
+    <span class="stat-value">3.57</span>
+    <span class="stat-label">Current CGPA in Security in Digital Systems</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-value">2x</span>
+    <span class="stat-label">Dean's List Award for Semester 1 and Semester 3</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-value">9A</span>
+    <span class="stat-label">SPM result with Principal's List Award</span>
+  </div>
+  <div class="stat-card">
+    <span class="stat-value">CCNA</span>
+    <span class="stat-label">Cisco networking foundation credentials</span>
+  </div>
+</section>
 
 ## Education
 
-### Bachelor of Computer Science (Honours) - Security in Digital Systems
+<section class="timeline">
+  <article class="timeline-item">
+    <div class="timeline-date">Current</div>
+    <div class="timeline-content">
+      <h3>Bachelor of Computer Science (Honours) - Security in Digital Systems</h3>
+      <p><strong>International Islamic University Malaysia (IIUM), Gombak</strong></p>
+      <p>Second-year student with a current <strong>CGPA of 3.57</strong>.</p>
+      <div class="tag-row"><span>Cybersecurity</span><span>Secure Digital Systems</span><span>Network Security</span><span>Programming</span><span>System Analysis</span></div>
+      <p class="project-contribution"><strong>Academic recognition:</strong> Dean's List Award for Semester 1 and Semester 3.</p>
+    </div>
+  </article>
 
-<Badge type="warning" text="Cybersecurity" />
-<Badge type="info" text="Computer Science" />
-<Badge type="tip" text="CGPA 3.57" />
+  <article class="timeline-item">
+    <div class="timeline-date">Foundation</div>
+    <div class="timeline-content">
+      <h3>Foundation in Engineering & Computer Science</h3>
+      <p><strong>IIUM Gambang</strong></p>
+      <p>Completed foundation studies with a <strong>CGPA of 2.99</strong>.</p>
+      <div class="tag-row"><span>Engineering</span><span>Computer Science</span><span>Technical Foundation</span></div>
+    </div>
+  </article>
 
-**International Islamic University Malaysia (IIUM), Gombak**  
-**Second-year student**
-
-- CGPA: **3.57**
-- Dean's List Award: **Semester 1 and Semester 3**
-- Focus areas: secure digital systems, network security, programming, cybersecurity tools, and system analysis
-
-### Foundation in Engineering & Computer Science
-
-<Badge type="info" text="Engineering" />
-<Badge type="info" text="Computer Science" />
-<Badge type="tip" text="CGPA 2.99" />
-
-**IIUM Gambang**  
-CGPA: **2.99**
-
-### Sijil Pelajaran Malaysia
-
-<Badge type="tip" text="9A" />
-<Badge type="tip" text="Principal's List" />
-
-Achieved **9A** in SPM and received the **Principal's List Award**.
+  <article class="timeline-item">
+    <div class="timeline-date">SPM</div>
+    <div class="timeline-content">
+      <h3>Sijil Pelajaran Malaysia</h3>
+      <p>Achieved <strong>9A</strong> in SPM and received the <strong>Principal's List Award</strong>.</p>
+      <div class="tag-row"><span>9A</span><span>Principal's List</span></div>
+    </div>
+  </article>
+</section>
 
 ## Certifications
 
-::: tip Verified on Credly
-All certifications are verified on my [Credly profile](https://www.credly.com/users/majdi-ahmadi).
+::: tip Verified Credentials
+Certification records are available on [Credly](https://www.credly.com/users/majdi-ahmadi).
 :::
 
-### CCNA: Switching, Routing, and Wireless Essentials
+<section class="project-grid">
+  <article class="project-card">
+    <div class="project-meta">Cisco Networking Academy | Issued January 17, 2026</div>
+    <h3>CCNA: Switching, Routing, and Wireless Essentials</h3>
+    <p>Cisco-certified training in switching, routing, wireless networking, VLANs, inter-VLAN routing, routing concepts, and core network operations.</p>
+    <div class="tag-row"><span>CCNA</span><span>Switching</span><span>Routing</span><span>Wireless</span><span>Networking</span></div>
+    <p class="project-contribution"><a href="https://www.credly.com/badges/ccna-switching-routing-and-wireless-essentials">View credential on Credly</a></p>
+  </article>
 
-![CCNA SRWE](https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)
+  <article class="project-card">
+    <div class="project-meta">Cisco Networking Academy | Issued June 3, 2025</div>
+    <h3>CCNA: Introduction to Networks</h3>
+    <p>Cisco-certified foundation in network models, IP addressing, Ethernet, connectivity, network services, and essential networking concepts used in security and systems work.</p>
+    <div class="tag-row"><span>CCNA</span><span>IP Addressing</span><span>Ethernet</span><span>Network Models</span><span>Security Foundation</span></div>
+    <p class="project-contribution"><a href="https://www.credly.com/badges/ccna-introduction-to-networks">View credential on Credly</a></p>
+  </article>
+</section>
 
-<Badge type="tip" text="CCNA" />
-<Badge type="info" text="Switching" />
-<Badge type="info" text="Routing" />
-<Badge type="info" text="Wireless" />
+## Activities
 
-**Issued: January 17, 2026** · [View on Credly](https://www.credly.com/badges/ccna-switching-routing-and-wireless-essentials)
+<section class="project-grid">
+  <article class="project-card">
+    <div class="project-meta">Cybersecurity Practice</div>
+    <h3>Capture The Flag Competitions</h3>
+    <p>Participated in CTF practice to strengthen applied security problem solving across web exploitation, cryptography, forensics, reverse engineering, binary analysis, and general cybersecurity challenges.</p>
+    <div class="tag-row"><span>ICECTF Chapter 0 & 1</span><span>0xFUN CTF 2026</span><span>TaipanByte Chart CTF 2026</span><span>Crackmes.one CTF 2026</span><span>Batman's Kitchen CTF 2026</span><span>THJCC CTF 2026</span></div>
+  </article>
 
-Cisco-certified in switching, routing, and wireless networking essentials.
+  <article class="project-card">
+    <div class="project-meta">Leadership & Technical Committees</div>
+    <h3>Campus Technical Activities</h3>
+    <p>Supported campus events and technical programs involving web development, router and switch lab activities, and IoT-focused awareness.</p>
+    <div class="tag-row"><span>IGIIDeation 2025</span><span>Web Development Committee</span><span>Physical Router & Switch Lab 2025</span><span>IoT Appreciation Day 2025</span></div>
+  </article>
 
-### CCNA: Introduction to Networks
+  <article class="project-card">
+    <div class="project-meta">Work Experience</div>
+    <h3>Operations & Customer-Facing Roles</h3>
+    <p>Worked as an assistant invigilator at Universiti Sains Islam Malaysia in 2024 and 2025, supporting examination operations and assessment procedures. Also worked as a retail salesworker at Tone & Mann, AEON in 2023.</p>
+    <div class="tag-row"><span>Responsibility</span><span>Operations</span><span>Customer Service</span><span>Coordination</span></div>
+  </article>
+</section>
 
-![CCNA ITN](https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)
+## Technical Skills
 
-<Badge type="tip" text="CCNA" />
-<Badge type="info" text="Networking" />
-<Badge type="warning" text="Security Foundation" />
+<section class="skill-panel">
+  <h3>Languages</h3>
+  <div class="tag-row"><span>Python</span><span>PHP</span><span>Java</span><span>JavaScript</span><span>SQL</span><span>PL/SQL</span><span>C</span><span>C++</span></div>
 
-**Issued: June 3, 2025** · [View on Credly](https://www.credly.com/badges/ccna-introduction-to-networks)
+  <h3>Security & Systems Tools</h3>
+  <div class="tag-row"><span>Wireshark</span><span>Suricata IDS</span><span>Wazuh</span><span>MITRE ATT&CK</span><span>Sysinternals</span><span>Proxmox</span><span>Docker</span><span>NS3</span><span>MATLAB</span></div>
 
-Cisco-certified in foundational networking: network models, IP addressing, connectivity, and core network concepts.
-
-## Skills
-
-### Languages
-
-<Badge type="info" text="Python" />
-<Badge type="info" text="PHP" />
-<Badge type="info" text="Java" />
-<Badge type="info" text="JavaScript" />
-<Badge type="info" text="SQL" />
-<Badge type="info" text="PL/SQL" />
-<Badge type="info" text="C" />
-<Badge type="info" text="C++" />
-
-### Cybersecurity Tools
-
-<Badge type="tip" text="Wireshark" />
-<Badge type="tip" text="Suricata IDS" />
-<Badge type="tip" text="Wazuh" />
-<Badge type="tip" text="MITRE ATT&CK" />
-<Badge type="tip" text="Sysinternals" />
-<Badge type="tip" text="Proxmox" />
-<Badge type="tip" text="Docker" />
-<Badge type="tip" text="NS3" />
-<Badge type="tip" text="MATLAB" />
-
-### Cybersecurity Skills
-
-<Badge type="warning" text="Network Security" />
-<Badge type="warning" text="Malware Analysis" />
-<Badge type="warning" text="Intrusion Detection" />
-<Badge type="warning" text="IoT Security" />
-<Badge type="warning" text="Threat Analysis" />
-<Badge type="warning" text="Log Analysis" />
-<Badge type="warning" text="Linux" />
-<Badge type="warning" text="Security Monitoring" />
-<Badge type="warning" text="Vulnerability Analysis" />
-<Badge type="warning" text="Reverse Engineering" />
-<Badge type="warning" text="Cryptography" />
-<Badge type="warning" text="Risk Assessment" />
-
-## Projects
-
-### Hunting Malware in the Wild
-
-**May 2026 - June 2026**  
-Analyzed real malware with static, dynamic, and network analysis; identified indicators of compromise; mapped behavior to **MITRE ATT&CK**; and proposed mitigations.
-
-### MITM Attack Detection in IoT Networks
-
-**March 2025 - June 2025**  
-Used MATLAB, NS3, physical layer security, RSS, and CSI anomaly detection concepts to study MITM attack detection in IoT networks.
-
-### Docker-Based Virtualization for OS Labs
-
-**October 2025 - January 2026**  
-Used Docker and WSL2 to replace traditional VM-based operating systems labs with Ubuntu container environments.
-
-### Blockchain in Global Aquaculture
-
-**January 2025**  
-Co-authored a journal paper on blockchain, IoT, and AI integration for global aquaculture and food supply chain traceability.
-
-## CTF Competitions
-
-::: info Capture The Flag Practice
-CTF participation supports practical learning across web exploitation, cryptography, forensics, reverse engineering, binary analysis, and security problem solving.
-:::
-
-- ICECTF Chapter 0 & 1 at IIUM
-- 0xFUN CTF 2026
-- TaipanByte Chart CTF 2026
-- Crackmes.one CTF 2026
-- Batman's Kitchen CTF 2026
-- THJCC CTF 2026
-
-## Leadership & Activities
-
-### Web Development Committee
-
-**IGIIDeation 2025**
-
-Supported web development work for the event committee.
-
-### Committee Member
-
-**Physical Router & Switch Lab 2025**
-
-Supported technical lab activities related to router and switch infrastructure.
-
-### Committee Member
-
-**IoT Appreciation Day 2025**
-
-Supported event activities focused on IoT awareness and appreciation.
+  <h3>Security Areas</h3>
+  <div class="tag-row"><span>Network Security</span><span>Malware Analysis</span><span>Intrusion Detection</span><span>IoT Security</span><span>Threat Analysis</span><span>Log Analysis</span><span>Linux</span><span>Security Monitoring</span><span>Vulnerability Analysis</span><span>Reverse Engineering</span><span>Cryptography</span><span>Risk Assessment</span></div>
+</section>
 
 ## Contact
 
-- Email: [majdiahmadi05@gmail.com](mailto:majdiahmadi05@gmail.com)
-- Phone: [+60 11-61665395](tel:+601161665395)
-- Location: Nilai, Negeri Sembilan, Malaysia
+- **Email:** [majdiahmadi05@gmail.com](mailto:majdiahmadi05@gmail.com)
+- **Phone:** [+60 11-61665395](tel:+601161665395)
+- **Location:** Nilai, Negeri Sembilan, Malaysia
+- **Credly:** [credly.com/users/majdi-ahmadi](https://www.credly.com/users/majdi-ahmadi)
