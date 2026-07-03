@@ -135,8 +135,10 @@ Principal's List Award
 <Badge type="info" text="Networking" />
 <Badge type="warning" text="Security Foundation" />
 
-- **CCNA Switching, Routing, and Wireless Essentials** - 2026
-- **CCNA Introduction to Networks** - 2025
+- **CCNA Switching, Routing, and Wireless Essentials** · Issued Jan 2026
+- **CCNA Introduction to Networks** · Issued Jun 2025
+
+[View all on Credly →](https://www.credly.com/users/majdi-ahmadi)
 
 ## Activities
 

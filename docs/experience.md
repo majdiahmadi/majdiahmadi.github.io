@@ -67,26 +67,34 @@ Achieved **9A** in SPM and received the **Principal's List Award**.
 
 ## Certifications
 
-### CCNA Switching, Routing, and Wireless Essentials
+::: tip Verified on Credly
+All certifications are verified on my [Credly profile](https://www.credly.com/users/majdi-ahmadi).
+:::
+
+### CCNA: Switching, Routing, and Wireless Essentials
+
+![CCNA SRWE](https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)
 
 <Badge type="tip" text="CCNA" />
 <Badge type="info" text="Switching" />
 <Badge type="info" text="Routing" />
 <Badge type="info" text="Wireless" />
 
-**2026**
+**Issued: January 17, 2026** · [View on Credly](https://www.credly.com/badges/ccna-switching-routing-and-wireless-essentials)
 
-Completed Cisco networking coursework covering switching, routing, and wireless networking essentials.
+Cisco-certified in switching, routing, and wireless networking essentials.
 
-### CCNA Introduction to Networks
+### CCNA: Introduction to Networks
+
+![CCNA ITN](https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)
 
 <Badge type="tip" text="CCNA" />
 <Badge type="info" text="Networking" />
 <Badge type="warning" text="Security Foundation" />
 
-**2025**
+**Issued: June 3, 2025** · [View on Credly](https://www.credly.com/badges/ccna-introduction-to-networks)
 
-Completed foundational networking coursework covering network models, IP addressing, connectivity, and core network concepts.
+Cisco-certified in foundational networking: network models, IP addressing, connectivity, and core network concepts.
 
 ## Skills
 
